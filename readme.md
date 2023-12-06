@@ -1,4 +1,4 @@
-[Course Link](https://www.udemy.com/course/100-days-of-javascript/)
+# [100 Days of Code in Javascript](https://www.udemy.com/course/100-days-of-javascript/)
 
 This code is from the course. For the most part, I am just following along with the videos.
 
